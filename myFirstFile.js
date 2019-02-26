@@ -13,7 +13,3 @@ function showDep(){
 }
 
 showDep()
-
-function showNothing(){
-  console.log("null")
-}
